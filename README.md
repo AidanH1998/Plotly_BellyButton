@@ -1,6 +1,6 @@
 # Plotly_BellyButton
 
-##Purpose##
+## Purpose ##
 
 The Purpose of this repository is to upload and organize data to a dashboard so that the users can pick and chooses what they want. In this example we have to show the belly button biodiversity on a dashboard. We learn how to create different graphs that tell us different data. 
 
@@ -13,7 +13,7 @@ In Deliverable 3, we have a scale from 0-10 telling us the amount of time the su
 With all this information we have to organize it on the dashboard, so that we can catagorize the data, for users to read.
 
 
-##Module 12##
+## Module 12 ##
 
 In this Module we sort a JSON file by accessing it with d3.json so use the file in organizing the data through their classes.
 
